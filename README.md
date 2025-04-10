@@ -14,6 +14,8 @@ Our results will provide insights into how common and severe these diseases are 
 
 The issues stated above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
 
+* [CCU052_01: Incidence and prevalence of asthma, chronic obstructive pulmonary disease and interstitial lung disease between 2004 and 2023: harmonised analyses of longitudinal cohorts across England, Wales, South-East Scotland and Northern Ireland](https://github.com/BHFDSC/CCU052_01)
+
 > Links to follow once outputs have been submitted to a preprint server and/or submitted to a journal.
 
 ## Project approval
